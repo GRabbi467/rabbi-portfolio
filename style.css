@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 50px;
@@ -27,3 +28,12 @@ section{
     border-radius: 5px;
     font-weight: 700;
 }
+.top-banner{
+    background-image: url(image/scott-webb-hDyO6rr3kqk-unsplash.jpg);
+
+}
+.imagepad{
+    padding-top: 20px;
+}
+    
+
